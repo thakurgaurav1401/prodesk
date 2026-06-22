@@ -18,7 +18,7 @@ A professional, fully responsive landing page built for the Prodesk IT digital m
 | Type | Static Landing Page |
 | Stack | HTML5, CSS3, Vanilla JavaScript |
 | Responsive | Yes — Mobile & Desktop |
-| Deployed On | Vercel / Netlify (free tier) |
+| Deployed On | Vercel  |
 ---
 
 ##  Features Built
@@ -45,7 +45,7 @@ prodesk-it/
 ├── README.md        → This file
 └── images/
     └── Screenshot 2026-06-22 130916.png  → Site screenshot
-    
+
 👤 Author
 Gaurav Singh
 Sprint 01 — Prodesk IT Internship Program
